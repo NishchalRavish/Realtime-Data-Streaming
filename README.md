@@ -43,3 +43,22 @@ The project is designed with the following components:
 - Cassandra
 - PostgreSQL
 - Docker
+
+## Getting Started
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd 
+    ```
+
+3. Run Docker Compose to spin up the services:
+    ```bash
+    docker-compose up
+    ```
+
+For more detailed instructions, please check out the video tutorial linked below.
